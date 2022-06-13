@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App2Kotlin</string>
+    <string name="edt_Usuario">Ingrese el usuario</string>
+    <string name="edt_Clave">Ingrese la clave</string>
+    <string name="button_ingresar">Ingresar</string>
+    <string name="button_mostrar">Mostrar</string>
+    <string name="button_salir">Salir</string>
+    <string name="mensajes">Aqui aparece el mensaje</string>
+
+</resources>
